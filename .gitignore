@@ -1,0 +1,21 @@
+## OS
+.DS_Store
+
+## IDE
+.idea
+.vscode
+
+## Dependencies 
+node_modules
+
+## Build
+build
+target
+dist
+
+## Executables
+*.dmg
+*.exe
+*.msi
+*.zip
+*.tar.gz
